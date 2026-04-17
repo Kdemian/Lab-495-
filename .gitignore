@@ -1,0 +1,33 @@
+# Compiled output
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.elf
+
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
